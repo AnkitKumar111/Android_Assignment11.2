@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Autocomplete</string>
+    <string name="ITEM_SEARCH">Search Products Here</string>
+</resources>
